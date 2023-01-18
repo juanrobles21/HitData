@@ -1,0 +1,24 @@
+Datos sobre:
+#Cursos que tienen o que ofrecen
+#Vehiculos que tinen para hacer los cursos
+#Con que tipo de matriculas cuentan
+
+Con cuales tipos de usuarios cuentan
+Ejemplo: 
+administrador
+usuario
+
+a2, cual quier persona mayor a 16 b1, cualquier persona mayor a 16 c1, mayores de 18 c2, prerequisito tener c1
+a2=
+b1=
+c1=
+c2= 
+no hacerlo modular, cambiar la base de datos del sistema.
+coloracr lo de las fotos
+colocar el excel para subir a la plataforma
+anidar las tablas de identificacion, personas y nuevos usuarios
+estado del usuario, certificado o no certicado
+
+excel matriculados por categoria, certificados por categoria
+
+cambiar el estado segun en numero de acta y certificado
